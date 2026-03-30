@@ -1,0 +1,12 @@
+POST http://localhost:3000/event
+Content-Type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJ1c3RAZGV2LmNvbSIsImV4cCI6MTc3NDYzNDgxOSwidXNlcklkIjowfQ.O5CUaxV72MUn4pfEkriCGEoTl_0_HkuGOe8sTwuE5gw
+ 
+
+{
+    "name": "Coding Go",
+        "description": "Workout project",
+        "location": "Home",
+        "dateTime": "2026-03-27T15:30:00Z"
+   
+}
